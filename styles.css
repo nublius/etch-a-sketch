@@ -7,3 +7,19 @@
 .flex {
     display: flex;
 }
+
+#main-container {
+    justify-content: center;
+}
+
+.box {
+    height: 25px;
+    width: 25px;
+    border: 2px solid black;
+}
+
+.btn {
+    border: 2px solid black;
+    cursor: pointer;
+}
+
