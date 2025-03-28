@@ -10,11 +10,13 @@
 
 #main-container {
     justify-content: center;
+    width: 960px;
+    justify-self: center;
 }
 
 .box {
-    height: 25px;
-    width: 25px;
+    height: 20px;
+    width: 20px;
     border: 2px solid black;
 }
 
